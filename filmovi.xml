@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kolekcija>
+   <Film>
+      <Naslov>Kum</Naslov>
+      <Reziser>Francis Ford Coppola</Reziser>
+      <Zanr>Kriminalistička drama</Zanr>
+      <GodinaIzdanja>1972</GodinaIzdanja>
+  </Film>
+  <Film>
+      <Naslov>Pulp Fiction </Naslov>
+      <Reziser>Quentin Tarantino</Reziser>
+      <Zanr>Drama</Zanr>
+      <GodinaIzdanja>1994</GodinaIzdanja>
+  </Film>
+  <Film>
+      <Naslov>Schindlerova lista</Naslov>
+      <Reziser>Steven Spielberg</Reziser>
+      <Zanr>Drama, biografija</Zanr>
+      <GodinaIzdanja>1993</GodinaIzdanja>
+  </Film>
+  <Film>
+      <Naslov>Ratovi zvijezda IV – Nova nada</Naslov>
+      <Reziser>George Lucas</Reziser>
+      <Zanr>Znanstvena fantastika</Zanr>
+      <GodinaIzdanja>1977</GodinaIzdanja>
+  </Film>
+  <Film>
+      <Naslov>Zameo ih vjetar</Naslov>
+      <Reziser>Victor Fleming</Reziser>
+      <Zanr>Romantični, drama</Zanr>
+      <GodinaIzdanja>1939</GodinaIzdanja>
+  </Film>
+  <Film>
+      <Naslov>Apokalipsa danas</Naslov>
+      <Reziser>Francis Ford Coppola</Reziser>
+      <Zanr>Ratni film</Zanr>
+      <GodinaIzdanja>1979</GodinaIzdanja>
+  </Film>
+</Kolekcija>
